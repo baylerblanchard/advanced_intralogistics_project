@@ -12,3 +12,32 @@ An authorized employee verifies the visitor's identity and clicks a button to gr
 The application sends a command to the Brivo system to unlock the door.
 
 Separately, employees can use the same dashboard to view and adjust the room's temperature via the Ecobee+ thermostat.
+
+Built With:
+
+Frontend:
+
+React.js
+
+Axios
+
+Backend:
+
+Node.js
+
+Express.js
+
+Database:
+
+MongoDB
+
+PostgreSQL
+
+APIs:
+
+Brivo API
+
+Ring API
+
+Ecobee API
+
