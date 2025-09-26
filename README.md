@@ -13,6 +13,7 @@ The application sends a command to the Brivo system to unlock the door.
 
 Separately, employees can use the same dashboard to view and adjust the room's temperature via the Ecobee+ thermostat.
 
+
 Built using:
 
 Frontend:
@@ -20,18 +21,21 @@ Frontend:
   React.js
 
   Axios
+  
 
 Backend:
 
   Node.js
 
   Express.js
+  
 
 Database:
 
   MongoDB
 
   PostgreSQL
+  
 
 APIs:
 
