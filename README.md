@@ -16,32 +16,30 @@ Separately, employees can use the same dashboard to view and adjust the room's t
 
 Built using:
 
-*Frontend:
+* Frontend:
 
-  *React.js
+  * React.js
 
-  *Axios
+  * Axios
+
+* Backend:
+
+  * Node.js
+
+  * Express.js
   
 
-*Backend:
+* Database:
 
-  *Node.js
+  * MongoDB
 
-  *Express.js
-  
+  * PostgreSQL
 
-*Database:
+* APIs:
 
-  *MongoDB
+  * Brivo API
 
-  *PostgreSQL
-  
+  * Ring API
 
-APIs:
-
-  Brivo API
-
-  Ring API
-
-  Ecobee API
+  * Ecobee API
 
