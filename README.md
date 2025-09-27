@@ -16,25 +16,25 @@ Separately, employees can use the same dashboard to view and adjust the room's t
 
 Built using:
 
-Frontend:
+*Frontend:
 
-  React.js
+  *React.js
 
-  Axios
+  *Axios
   
 
-Backend:
+*Backend:
 
-  Node.js
+  *Node.js
 
-  Express.js
+  *Express.js
   
 
-Database:
+*Database:
 
-  MongoDB
+  *MongoDB
 
-  PostgreSQL
+  *PostgreSQL
   
 
 APIs:
